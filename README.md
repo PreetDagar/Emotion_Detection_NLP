@@ -110,4 +110,4 @@ python3 -m streamlit run app.py
 
 Preet Dagar
 
-GitHub: https://github.com/PreetDagar
+GitHub: [https://github.com/PreetDagar](https://github.com/PreetDagar)
